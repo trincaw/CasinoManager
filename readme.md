@@ -1,4 +1,3 @@
-<h3 align="center"><img src="https://i.imgur.com/yl0JUct.jpeg" alt="logo" height="100px"></h3>
 <h1 align="center">Casino manager</h1>
 <p>
   <h2 align="left">A simple casino manager database</h2>
