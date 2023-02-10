@@ -5,6 +5,13 @@ Casino Manager is a powerful and sophisticated solution designed specifically fo
 
 With Casino Manager Database, casino managers can gain real-time insights into the performance of their operations, enabling them to make informed decisions that drive growth and profitability. The system's intuitive interface makes it easy for managers to access and analyze data, while its robust security features ensure that sensitive information is protected at all times.
 
+## Build
+
+|              | Build                |
+|-------------:|----------------------|
+| OS           | Arch Linux (rolling) 64bit  |
+| DBMS         | Postgre sql 14        |
+
 ## Execution
 ```console
 g++ query.cpp -L dependencies\lib -lpq -o mycodefile
