@@ -1,5 +1,5 @@
 # JackpotDB
-JackpotDB is a simple database to manage easly your casino with some examples of data and query
+JackpotDB: a database management system specifically designed for casinos. It offers an extensive set of powerful queries to make managing your casino operations more efficient and easier.
 ## Description
 JackpotDB is a powerful and sophisticated solution designed specifically for the gambling industry. It provides a centralized database to manage all aspects of their operations, from player tracking and marketing to financial reporting and staff management.
 
